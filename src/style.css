@@ -1,0 +1,15 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+body h1 {
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+  text-shadow: 3px 3px 3px rgb(245, 138, 16);
+}
+.form-control {
+  color: rgb(0, 0, 0);
+  text-shadow: 3px 3px 3px rgb(236, 78, 16);
+}
+#titulo {
+  background-color: brown;
+}
